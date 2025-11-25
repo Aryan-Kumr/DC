@@ -1,3 +1,7 @@
+// gedit prog3_bcast.c
+// mpicc prog3_bcast.c -o bcast
+// mpirun -np 4 ./bcast
+
 /* prog3_bcast.c */
 #include <stdio.h>
 #include <mpi.h>
